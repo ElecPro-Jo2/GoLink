@@ -15,7 +15,7 @@ Tant qu’à faire, bricole ton Gotek pour le transformer en Golink, c’est un 
 Matériel:
 
 - Un Gotek (flashfloppy-3.xx)
-- Un Esp8266-01S + programateur
+- Un Esp8266-01S + programmateur USB
 
 Logiciel:
 
